@@ -12,4 +12,3 @@
 
 ## Function:
 - generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])
--  test

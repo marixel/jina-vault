@@ -1,0 +1,1 @@
+the addition of [[electrons]] to a molecule so as to **decrease** the overall charge of the particle

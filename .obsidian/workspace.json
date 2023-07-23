@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c07e603597b28fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f03266d52fa658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c801cfdc91b12bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca2ff0eabe93b2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glycolysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aa40d65f12e7a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa548ad1ddb0d7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "54baf1efa93851e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef866115e4b0c1ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c19a16427b0ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "redo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffcc604ca3e9afd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "952b29adeb3b2499",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6e81b4a893080b",
+        "type": "tabs",
+        "dimension": 39.436619718309856,
+        "children": [
+          {
+            "id": "c0bd031c44317840",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "redox.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2677de153546a670",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46c1e66a34a334b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "redox.md"
+              }
+            }
+          },
+          {
+            "id": "04468af53c27ebe0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e7d9c2517b1ee1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9a8252d22ff766bb",
+        "type": "tabs",
+        "dimension": 60.56338028169014,
+        "children": [
+          {
+            "id": "74b5ec48681bda96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "redox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9aa40d65f12e7a15",
+  "lastOpenFiles": [
+    "reduction.md",
+    "redox.md",
+    "glycolysis.md",
+    "atp-structure-and-function.md",
+    "catabolic.md",
+    "exergonic.md",
+    "heterotrophic organisms.md",
+    "2023-07-23.md",
+    "ATP.md",
+    "anaerobic.md",
+    "phosphorylation.md",
+    "phosphate group.md",
+    "Untitled.md",
+    "spontaneous.md",
+    "respiration.md",
+    "Untitled 1.md",
+    "coenzymes.md",
+    "aerobic.md",
+    "aerobic vs anaerobic respiration.png",
+    "phosphorylated-intermediates.md",
+    "chemoautotrophs.md",
+    "ATP structure graph.png",
+    "ATP structure vs nucleotide structure.png",
+    "ATP Structure graph.png",
+    "pyruvate.md",
+    "coupled reactions.md",
+    "photoautotrophs.md",
+    "autotrophic organisms.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "chemical energy.md",
+    "major-modes-of-nutrition-among-organisms.md"
+  ]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electronegativity,.md",
+                "file": "oxidation.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "electronegativity,.md",
+                "file": "oxidation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electronegativity,.md"
+                "file": "oxidation.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronegativity,.md",
+                "file": "oxidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,8 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "oxidation.md",
     "electronegativity,.md",
+    "oxidation.md",
     "redox.md",
     "reduction.md",
     "aerobic.md",

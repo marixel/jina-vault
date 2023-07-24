@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redox.md"
+                "file": "energy.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
     "redox.md",
+    "energy.md",
     "oxidation.md",
     "electronegativity,.md",
     "reduction.md",
@@ -205,7 +206,6 @@
     "anaerobic.md",
     "Untitled 1.md",
     "spontaneous.md",
-    "respiration.md",
     "old/Untitled 1.canvas",
     "old/ATP structure vs nucleotide structure.png",
     "old/ATP structure graph.png",

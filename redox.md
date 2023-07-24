@@ -1,1 +1,2 @@
-combo [[reduction]] and [[oxidation]] (or [[redox]]: process involving changes in charge via electron transfers) always happen at the same time
+combo of [[reduction]] and [[oxidation]] (process involving changes in charge via electron transfers)
+#### [[reduction]] and [[oxidation]] *always happen at the same time

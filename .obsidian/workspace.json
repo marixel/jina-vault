@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oxidation.md",
+                "file": "electronegativity,.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oxidation.md",
+                "file": "electronegativity,.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oxidation.md"
+                "file": "electronegativity,.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oxidation.md",
+                "file": "electronegativity,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,9 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "redox.md",
     "oxidation.md",
+    "electronegativity,.md",
+    "redox.md",
     "reduction.md",
     "aerobic.md",
     "major-modes-of-nutrition-among-organisms.md",

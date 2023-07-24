@@ -1,0 +1,1 @@
+the [[energy]] needed to start a reaction

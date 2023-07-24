@@ -11,12 +11,8 @@
             "id": "7c801cfdc91b12bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redox.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "redox.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,9 +167,9 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
+    "redox.md",
     "oxidation.md",
     "electronegativity,.md",
-    "redox.md",
     "reduction.md",
     "aerobic.md",
     "major-modes-of-nutrition-among-organisms.md",

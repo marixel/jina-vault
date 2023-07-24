@@ -1,1 +1,1 @@
-the loss of electrons (or an increase)
+the loss of electrons (or an increase in positive charge)

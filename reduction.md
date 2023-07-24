@@ -1,1 +1,2 @@
-the addition of [[electrons]] to a molecule so as to **decrease** the overall charge of the particle
+the gain of [[electrons]] so as to **decrease** the overall charge of a particle
+#### Hence "[[reduction]]"; the charge *reduces*

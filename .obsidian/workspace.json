@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oxidation.md",
+                "file": "reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oxidation.md",
+                "file": "reduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oxidation.md"
+                "file": "reduction.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oxidation.md",
+                "file": "reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
     "redox.md",
+    "reduction.md",
     "oxidation.md",
     "aerobic.md",
     "major-modes-of-nutrition-among-organisms.md",
@@ -204,7 +205,6 @@
     "Untitled 1.md",
     "spontaneous.md",
     "respiration.md",
-    "reduction.md",
     "old/Untitled 1.canvas",
     "old/ATP structure vs nucleotide structure.png",
     "old/ATP structure graph.png",

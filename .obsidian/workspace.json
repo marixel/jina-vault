@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c24cab66f3dd092c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coenzymes.md",
+                "file": "redox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coenzymes.md"
+                "file": "redox.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coenzymes.md",
+                "file": "redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c801cfdc91b12bd",
+  "active": "c24cab66f3dd092c",
   "lastOpenFiles": [
-    "energy.md",
     "coenzymes.md",
+    "energy.md",
     "activation energy.md",
     "redox.md",
     "oxidation.md",

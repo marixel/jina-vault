@@ -11,8 +11,12 @@
             "id": "7c801cfdc91b12bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "redox.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "redox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "redox.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -1,2 +1,3 @@
-stored in the bonds of a molecule
-[[activation energy]]
+- stored in the bonds of a molecule
+- released when compounds/molecules are broken down
+- must undergo 

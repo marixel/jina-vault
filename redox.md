@@ -1,6 +1,6 @@
 involved in [[respiration]]
-often involves [[hydrogen]]
-	reactions involving the transfer of hydrogen is often referred to as a 
+in [[metabolic pathways]], often involves [[hydrogen]]
+	reactions involving the transfer of hydrogen ([[protons]]) are often referred to as redox reactions
 combo of [[reduction]] and [[oxidation]] (process involving changes in charge via electron transfers)
 #### [[reduction]] and [[oxidation]] *always* happen at the same time
 

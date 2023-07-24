@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b30a915ba94b417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redox",
+                "query": "energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "952b29adeb3b2499",
@@ -88,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coenzymes.md",
+                "file": "energy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coenzymes.md"
+                "file": "energy.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coenzymes.md",
+                "file": "energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c801cfdc91b12bd",
+  "active": "0b30a915ba94b417",
   "lastOpenFiles": [
-    "energy.md",
     "activation energy.md",
+    "coenzymes.md",
+    "energy.md",
     "redox.md",
     "oxidation.md",
     "electronegativity,.md",
@@ -184,7 +197,6 @@
     "aerobic.md",
     "major-modes-of-nutrition-among-organisms.md",
     "ATP.md",
-    "coenzymes.md",
     "Untitled.md",
     "Untitled.canvas",
     "reading-list-23.md",

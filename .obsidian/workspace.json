@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3ed770905427923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glycolysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phosphorylated-intermediates.md",
+                "file": "glycolysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phosphorylated-intermediates.md"
+                "file": "glycolysis.md"
               }
             }
           },
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phosphorylated-intermediates.md",
+                "file": "glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b30a915ba94b417",
+  "active": "a3ed770905427923",
   "lastOpenFiles": [
+    "respiration.md",
+    "glycolysis.md",
     "ATP.md",
+    "phosphorylated-intermediates.md",
     "high-energy bonds.md",
     "atp-structure-and-function.md",
     "energy.md",
@@ -202,7 +218,6 @@
     "2023-07-26.md",
     "inorganic phosphate.md",
     "chemical energy.md",
-    "glycolysis.md",
     "NAD+.md",
     "pentose.md",
     "major-modes-of-nutrition-among-organisms.md",
@@ -220,8 +235,6 @@
     "Untitled.canvas",
     "reading-list-23.md",
     "pyruvate.md",
-    "photoautotrophs.md",
-    "phosphorylation.md",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
     "aerobic vs anaerobic respiration.png",

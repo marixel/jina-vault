@@ -1,3 +1,4 @@
+#### happens a
 [[anaerobic]] or [[aerobic]] process involving the breakdown of [[glucose]] into [[pyruvate]]
 processes produce much more [[ATP]] ([[catabolic]] process)
 

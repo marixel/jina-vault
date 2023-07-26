@@ -5,4 +5,5 @@
 - [[dehydrogenase]]:  enzymes that transfer [[hydrogen]] atoms from food molecules to [[NAD+]]
 
 #### reduced form: $\ce{NADH + H+}$
-- via [[dehydrogenase]], [[electrons]] in [[hydrogen]] are transferred to ionized NAD+ (positive bc it can accept electrons/[[valence layer]] isn't f
+- via [[dehydrogenase]], [[electrons]] in [[hydrogen]] are transferred to ionized NAD+ (positive bc it can accept [[electrons]]/[[valence layer]] isn't full)
+- ![[Pasted image 20230726034550.png]]

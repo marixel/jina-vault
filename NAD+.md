@@ -1,2 +1,2 @@
-a usually-ionized coenzyme 
+- a usually-[[ionized]] [[coenzyme]] that carries [[electrons]] (or undergoes [[reduction]]) to gradually release energy in a redox reaction
 - dinucleotide/building block of DNA

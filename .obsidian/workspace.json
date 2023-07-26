@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP.md",
+                "file": "high-energy bonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATP.md",
+                "file": "high-energy bonds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATP.md"
+                "file": "high-energy bonds.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATP.md",
+                "file": "high-energy bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,9 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
+    "ATP.md",
+    "chemical energy.md",
+    "high-energy bonds.md",
     "glycolysis.md",
     "NAD+.md",
     "pentose.md",
@@ -211,7 +214,6 @@
     "electronegativity,.md",
     "reduction.md",
     "aerobic.md",
-    "ATP.md",
     "Untitled.md",
     "Untitled.canvas",
     "reading-list-23.md",
@@ -221,8 +223,6 @@
     "phosphorylated-intermediates.md",
     "exergonic.md",
     "coupled reactions.md",
-    "catabolic.md",
-    "autotrophic organisms.md",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
     "aerobic vs anaerobic respiration.png",

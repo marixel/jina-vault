@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAD+.md",
+                "file": "glycolysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NAD+.md",
+                "file": "glycolysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NAD+.md"
+                "file": "glycolysis.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NAD+.md",
+                "file": "glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,8 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "pentose.md",
     "NAD+.md",
+    "pentose.md",
     "major-modes-of-nutrition-among-organisms.md",
     "Pasted image 20230726034550.png",
     "electrons.md",

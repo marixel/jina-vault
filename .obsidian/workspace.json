@@ -45,18 +45,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glycolysis.md",
+                "file": "respiration.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1f08887127834c1e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -72,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "respiration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-26.md"
+                "file": "respiration.md"
               }
             }
           },
@@ -198,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,19 +217,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c801cfdc91b12bd",
+  "active": "a3ed770905427923",
   "lastOpenFiles": [
-    "the Krebs cycle.md",
     "glycolysis.md",
+    "phosphorylated-intermediates.md",
+    "2023-07-26.md",
+    "the Krebs cycle.md",
     "respiration.md",
     "anaerobic.md",
     "ATP.md",
-    "phosphorylated-intermediates.md",
     "high-energy bonds.md",
     "atp-structure-and-function.md",
     "energy.md",
     "activation energy.md",
-    "2023-07-26.md",
     "inorganic phosphate.md",
     "chemical energy.md",
     "NAD+.md",

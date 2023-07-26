@@ -1,4 +1,6 @@
-### the process in which ATP is generated from the breakdown of organic molecules (**rephrase**)
+### the process in which [[ATP]] is generated from the breakdown of organic molecules (**rephrase**)
+
+### goal: transfer of energy stored in bonds of large, complex molecules to [[ATP]]
 
 ### steps (generally):
 1. [[glycolysis]]: happens to ***all*** cells; glucose broken down by enzymes to release energy (inducing [[spontaneous]] reaction) to make ATP

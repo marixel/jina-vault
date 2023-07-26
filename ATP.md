@@ -13,7 +13,7 @@
 	- composed of ribose
 
 ## Function:
-- generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])
+- generated via [[cellular respiration]] (both [[aerobic]] and [[anaerobic]])
 - [[phosphate bonds]] are unstable bc of [[phosphate group]] crowding (so bonds are weak)
 - products of [[ATP]] [[hydrolosis]] ([[ADP]] + P) more stable than [[ATP]]
 

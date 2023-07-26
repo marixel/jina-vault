@@ -10,6 +10,7 @@
 	- chemical work
 - ## Origin: [[autotrophic]] in nature; produced by the body after taking in raw materials
 	- ### $\ce{ADP + P -> ATP}$ (endergonic reaction)
+	- composed of ribose
 
 ## Function:
 - generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])

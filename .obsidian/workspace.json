@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hydrogen.md",
+                "file": "redox.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hydrogen.md",
+                "file": "redox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hydrogen.md"
+                "file": "redox.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hydrogen.md",
+                "file": "redox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
   },
   "active": "c24cab66f3dd092c",
   "lastOpenFiles": [
-    "redox.md",
     "hydrogen.md",
+    "electron.md",
+    "redox.md",
     "coenzymes.md",
     "energy.md",
     "activation energy.md",
@@ -230,7 +231,6 @@
     "New folder",
     "chemoautotrophs.md",
     "chemical energy.md",
-    "anaerobic.md",
     "old/Untitled 1.canvas",
     "old/ATP structure vs nucleotide structure.png",
     "old/ATP structure graph.png",

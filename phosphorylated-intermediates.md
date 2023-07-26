@@ -11,6 +11,7 @@
 	- [[spontaneous]] and [[exergonic]] process bc coupling = surplus of energy (see +(P) in formula)
 	- [[phosphorylation]]
 	- $\ce{ATP -> ADP + (P)}$
+- ### lose [[phosphate group]] during a coupled reaction
 
 
 

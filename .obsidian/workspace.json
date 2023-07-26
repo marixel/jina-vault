@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cellular respiration.md",
+                "file": "respiration.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cellular respiration.md",
+                "file": "respiration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cellular respiration.md"
+                "file": "respiration.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cellular respiration.md",
+                "file": "respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
   "active": "a3ed770905427923",
   "lastOpenFiles": [
     "glycolysis.md",
+    "respiration.md",
     "phosphorylated-intermediates.md",
     "2023-07-26.md",
     "the Krebs cycle.md",
-    "cellular respiration.md",
     "anaerobic.md",
     "ATP.md",
     "high-energy bonds.md",

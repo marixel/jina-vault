@@ -1,4 +1,4 @@
-involved in [[cellular respiration]]
+involved in [[respiration]]
 in [[metabolic pathways]], often involves [[hydrogen]]
 	reactions involving the transfer of [[hydrogen]] [[atoms]] are often referred to as redox reactions (transfer of H --> transfer of electrons)
 	$\ce{XH + Y -> YH + X}$ (Y undergoes [[reduction]])

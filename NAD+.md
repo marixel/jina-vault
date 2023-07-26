@@ -1,2 +1,4 @@
 - a usually-[[ionized]] [[coenzyme]] that carries [[electrons]] (or undergoes [[reduction]]) to gradually release energy in a redox reaction
 - dinucleotide/building block of DNA
+- [[nicotinamide]]: derived from vitamin B; [[coenzyme]] involved in redox reactions 
+- [[dehydrogenase]]:  enzymes that transfer hydrogen atoms from food molecules to [[NAD+]]

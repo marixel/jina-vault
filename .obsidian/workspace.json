@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coenzymes.md",
+                "file": "NAD+.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "energy.md",
+                "file": "NAD+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "energy.md"
+                "file": "NAD+.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "energy.md",
+                "file": "NAD+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24cab66f3dd092c",
+  "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "redox.md",
     "coenzymes.md",
+    "NAD+.md",
     "energy.md",
+    "redox.md",
     "hydrogen.md",
     "electron.md",
     "activation energy.md",
@@ -230,7 +230,6 @@
     "Untitled 2.md",
     "New folder",
     "chemoautotrophs.md",
-    "chemical energy.md",
     "old/Untitled 1.canvas",
     "old/ATP structure vs nucleotide structure.png",
     "old/ATP structure graph.png",

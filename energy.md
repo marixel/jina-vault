@@ -4,3 +4,4 @@
 	- in our cells, this [[energy]] is released **gradually**
 		- #### how this happens:
 			1. on a series of 'steps,' some [[energy]] is released at each step
+			2. this release is managed by [[coenzymes]] ([[NAD+]])

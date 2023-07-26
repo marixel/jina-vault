@@ -50,9 +50,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f08887127834c1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "85d3b265cf0d0489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the Krebs cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycolysis.md",
+                "file": "2023-07-26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycolysis.md"
+                "file": "2023-07-26.md"
               }
             }
           },
@@ -178,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycolysis.md",
+                "file": "2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +225,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ed770905427923",
+  "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "respiration.md",
+    "the Krebs cycle.md",
     "glycolysis.md",
+    "respiration.md",
     "anaerobic.md",
     "ATP.md",
     "phosphorylated-intermediates.md",
@@ -234,7 +255,6 @@
     "aerobic.md",
     "Untitled.md",
     "Untitled.canvas",
-    "reading-list-23.md",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
     "aerobic vs anaerobic respiration.png",

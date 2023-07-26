@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redox.md"
+                "file": "energy.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redox.md",
+                "file": "energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,9 +200,9 @@
   },
   "active": "c24cab66f3dd092c",
   "lastOpenFiles": [
+    "redox.md",
     "coenzymes.md",
     "energy.md",
-    "redox.md",
     "hydrogen.md",
     "electron.md",
     "activation energy.md",

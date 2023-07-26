@@ -13,5 +13,6 @@
 	- $\ce{ATP -> ADP + (P)}$
 - ### lose [[phosphate group]] during a coupled reaction
 
+#### *ATP is not a phosphorylated intermediate; it forms 
 
 

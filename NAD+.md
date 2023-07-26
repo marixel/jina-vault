@@ -3,3 +3,6 @@
 - [[nicotinamide]]: derived from vitamin B
 	- nicotinamide adenine dinucleotide ([[NAD+]])
 - [[dehydrogenase]]:  enzymes that transfer [[hydrogen]] atoms from food molecules to [[NAD+]]
+
+#### reduced form: $\ce{NADH + H+}$
+- via [[dehydrogenase]], [[electrons]] in [[hydrogen]]

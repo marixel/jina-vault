@@ -1,4 +1,4 @@
-#### happens a
+#### happens to *all* cells (plant & animal)
 [[anaerobic]] or [[aerobic]] process involving the breakdown of [[glucose]] into [[pyruvate]]
 processes produce much more [[ATP]] ([[catabolic]] process)
 

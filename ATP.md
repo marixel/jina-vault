@@ -14,4 +14,4 @@
 ## Function:
 - generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])
 - [[phosphate bonds]] are unstable bc of [[phosphate group]] crowding (so bonds are weak)
-- products of [[ATP]] [[hydrolosis]] ()
+- products of [[ATP]] [[hydrolosis]] ([[ADP]] + P) more stable than [[ATP]], 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP.md",
+                "file": "2023-07-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATP.md",
+                "file": "2023-07-26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATP.md"
+                "file": "2023-07-26.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATP.md",
+                "file": "2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,9 @@
   },
   "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
-    "inorganic phosphate.md",
     "ATP.md",
+    "2023-07-26.md",
+    "inorganic phosphate.md",
     "high-energy bonds.md",
     "chemical energy.md",
     "glycolysis.md",
@@ -222,7 +222,6 @@
     "photoautotrophs.md",
     "phosphorylation.md",
     "phosphorylated-intermediates.md",
-    "exergonic.md",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
     "aerobic vs anaerobic respiration.png",

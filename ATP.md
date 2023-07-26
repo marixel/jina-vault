@@ -9,6 +9,7 @@
 	- transport work
 	- chemical work
 - ## Origin: [[autotrophic]] in nature; produced by the body after taking in raw materials
+	- ### [[ADP]] +P --> ATP 
 
 ## Function:
 - generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])

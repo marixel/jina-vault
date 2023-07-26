@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NAD+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NAD+.md"
+              }
             }
           },
           {
@@ -163,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NAD+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76e0098c6a2856da",
+  "active": "7c801cfdc91b12bd",
   "lastOpenFiles": [
+    "pentose.md",
     "NAD+.md",
+    "major-modes-of-nutrition-among-organisms.md",
     "Pasted image 20230726034550.png",
     "electrons.md",
     "coenzymes.md",
-    "pentose.md",
     "energy.md",
     "redox.md",
     "hydrogen.md",
@@ -206,7 +210,6 @@
     "electronegativity,.md",
     "reduction.md",
     "aerobic.md",
-    "major-modes-of-nutrition-among-organisms.md",
     "ATP.md",
     "Untitled.md",
     "Untitled.canvas",

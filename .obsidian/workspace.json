@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atp-structure-and-function.md",
+                "file": "high-energy bonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atp-structure-and-function.md",
+                "file": "high-energy bonds.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atp-structure-and-function.md"
+                "file": "high-energy bonds.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atp-structure-and-function.md",
+                "file": "high-energy bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,11 +195,12 @@
   "active": "0b30a915ba94b417",
   "lastOpenFiles": [
     "ATP.md",
+    "high-energy bonds.md",
+    "atp-structure-and-function.md",
     "energy.md",
     "activation energy.md",
     "2023-07-26.md",
     "inorganic phosphate.md",
-    "high-energy bonds.md",
     "chemical energy.md",
     "glycolysis.md",
     "NAD+.md",
@@ -221,7 +222,6 @@
     "pyruvate.md",
     "photoautotrophs.md",
     "phosphorylation.md",
-    "phosphorylated-intermediates.md",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
     "aerobic vs anaerobic respiration.png",

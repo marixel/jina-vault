@@ -14,4 +14,13 @@
 ## Function:
 - generated via [[respiration]] (both [[aerobic]] and [[anaerobic]])
 - [[phosphate bonds]] are unstable bc of [[phosphate group]] crowding (so bonds are weak)
-- products of [[ATP]] [[hydrolosis]] ([[ADP]] + P) more stable than [[ATP]], 
+- products of [[ATP]] [[hydrolosis]] ([[ADP]] + P) more stable than [[ATP]]
+
+### how does [[ATP]] release energy?
+	[[High-energy bonds]]: **releases energy** when bond is broken
+		A - P - ***P ~ P*** ([[ATP]]) --> A - P - P + ***P*** (ADP)
+			**phosphate group is separated**
+		considered high-energy bc won't likely reform after [[hydrolosis]] + ADP + P is more stable than ATP bc [[electrons]] are in more stable position
+	**$\ce{ATP^-^4 + H2O}$ --> $\ce{ADP^-^3 + HPO4^-^2}$**
+	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
+**energy goes into production of nutrients and cell function**(?)

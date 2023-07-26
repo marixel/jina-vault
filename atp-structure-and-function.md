@@ -7,9 +7,9 @@
 ![[ATP structure vs nucleotide structure.png]]
 #### 3x as many [[phosphate group]]s as a [[nucleotide]]
 
-### how does ATP release energy?
+### how does [[ATP]] release energy?
 	[[High-energy bonds]]: **releases energy** when bond is broken
-		A - P - ***P ~ P*** (ATP) --> A - P - P + ***P*** (ADP)
+		A - P - ***P ~ P*** ([[ATP[[]]) --> A - P - P + ***P*** (ADP)
 			**phosphate group is separated**
 		considered high-energy bc won't likely reform after [[hydrolosis]] + ADP + P is more stable than ATP bc [[electrons]] are in more stable position
 	**$\ce{ATP^-^4 + H2O}$ --> $\ce{ADP^-^3 + HPO4^-^2}$**

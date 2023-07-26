@@ -1,4 +1,4 @@
-### **stores energy in the cell**
+### **stores [[energy]] in the cell**
 
 ![[ATP structure graph.png]]
 - [[chemical energy]]

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c801cfdc91b12bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b30a915ba94b417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "energy.md",
+                "file": "atp-structure-and-function.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +25,18 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "7c801cfdc91b12bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "atp-structure-and-function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-26.md"
+                "file": "atp-structure-and-function.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "atp-structure-and-function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c801cfdc91b12bd",
+  "active": "0b30a915ba94b417",
   "lastOpenFiles": [
     "ATP.md",
+    "energy.md",
+    "activation energy.md",
     "2023-07-26.md",
     "inorganic phosphate.md",
     "high-energy bonds.md",
@@ -206,11 +208,9 @@
     "Pasted image 20230726034550.png",
     "electrons.md",
     "coenzymes.md",
-    "energy.md",
     "redox.md",
     "hydrogen.md",
     "electron.md",
-    "activation energy.md",
     "oxidation.md",
     "electronegativity,.md",
     "reduction.md",

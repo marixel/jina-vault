@@ -1,1 +1,2 @@
-a usually-ionized coenzyme th
+a usually-ionized coenzyme 
+- dinucleotide/building block of DNA

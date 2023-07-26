@@ -14,4 +14,4 @@
 ### [[anaerobic]] [[respiration]]:
 - lorem ipsum dolor
 
-### [[cellular respiration]]: always aerobic (involving oxygen); carbs broken down with oxygen + water consumption to produce $\ce{CO2 + ATP}$
+### [[cellular respiration]]: always aerobic (involving oxygen); carbs broken down with oxygen consumption to produce $\ce{CO2 + H2O + ATP}$

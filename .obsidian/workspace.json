@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "f19a9ff2c71611be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "centrioles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c620cc929c3e6720",
             "type": "leaf",
             "state": {
@@ -217,9 +229,10 @@
   },
   "active": "bd334cdfb818aa79",
   "lastOpenFiles": [
+    "centrioles.md",
+    "microtubules.md",
     "flagella.md",
     "cilia.md",
-    "microtubules.md",
     "Untitled 4.md",
     "Pasted image 20230729102734.png",
     "phosphorylated-intermediates.md",
@@ -246,7 +259,6 @@
     "pentose.md",
     "major-modes-of-nutrition-among-organisms.md",
     "Pasted image 20230726034550.png",
-    "electrons.md",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",

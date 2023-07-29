@@ -1,1 +1,1 @@
-[[cilia]] and [[flagella]]
+[[cilia]],  [[flagella]], and [[centrioles]]

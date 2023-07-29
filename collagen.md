@@ -1,3 +1,3 @@
 - [[glycoprotein]]
 - part of [[extracellular matrix]] (outside of cell)
-- only found outside of cel
+- only found outside of cell

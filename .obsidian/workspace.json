@@ -40,54 +40,6 @@
             }
           },
           {
-            "id": "f19a9ff2c71611be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "centrioles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c620cc929c3e6720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cilia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3521d50819734ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flagella.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "879c4e7842d8418c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cell wall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fa93a1a457b5252",
             "type": "leaf",
             "state": {
@@ -98,33 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2723912ab8045eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "integrins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82bfc58b390738cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "collagen.md",
+                "file": "cell membrane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collagen.md"
+                "file": "cell membrane.md"
               }
             }
           },
@@ -248,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collagen.md",
+                "file": "cell membrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,11 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82bfc58b390738cf",
+  "active": "5fa93a1a457b5252",
   "lastOpenFiles": [
+    "collagen.md",
     "cell membrane.md",
     "cell wall.md",
-    "collagen.md",
     "integrins.md",
     "cellulose.md",
     "flagella.md",

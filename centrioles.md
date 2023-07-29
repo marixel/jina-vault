@@ -1,4 +1,4 @@
 - made up of [[actin]] [[microfilaments]]
 - rarely found in plant cells
-- 9+0 structure
+- 9+0 arrangement of [[microfilaments]]
 - contained in [[centrosome]] of cell

@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82bfc58b390738cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "collagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "integrins.md",
+                "file": "collagen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "integrins.md"
+                "file": "collagen.md"
               }
             }
           },
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integrins.md",
+                "file": "collagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,11 +275,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2723912ab8045eec",
+  "active": "82bfc58b390738cf",
   "lastOpenFiles": [
     "cell membrane.md",
-    "integrins.md",
     "cell wall.md",
+    "collagen.md",
+    "integrins.md",
     "cellulose.md",
     "flagella.md",
     "cilia.md",
@@ -293,7 +306,6 @@
     "atp-structure-and-function.md",
     "energy.md",
     "activation energy.md",
-    "inorganic phosphate.md",
     "Pasted image 20230726034550.png",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",

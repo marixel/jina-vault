@@ -11,56 +11,24 @@
             "id": "0b30a915ba94b417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phosphorylated-intermediates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e0098c6a2856da",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "7c801cfdc91b12bd",
+            "id": "3a853f582f96b7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ed770905427923",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "85d3b265cf0d0489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the Krebs cycle.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 4.md"
+              }
             }
           },
           {
@@ -181,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,16 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef866115e4b0c1ad",
+  "active": "3a853f582f96b7cc",
   "lastOpenFiles": [
+    "Pasted image 20230729102734.png",
+    "Untitled 4.md",
+    "phosphorylated-intermediates.md",
+    "reading-list-23.md",
+    "2023-07-26.md",
+    "quicksand.md",
+    "mere-christianity.md",
+    "the Krebs cycle.md",
+    "Untitled 3.md",
     "Screenshot 2023-07-27 at 10.31.38 PM.pdf",
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "fructose.md",
     "respiration.md",
     "glycolysis.md",
-    "phosphorylated-intermediates.md",
-    "2023-07-26.md",
-    "the Krebs cycle.md",
     "anaerobic.md",
     "ATP.md",
     "high-energy bonds.md",
@@ -232,11 +210,6 @@
     "electrons.md",
     "coenzymes.md",
     "redox.md",
-    "hydrogen.md",
-    "electron.md",
-    "oxidation.md",
-    "electronegativity,.md",
-    "reduction.md",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",

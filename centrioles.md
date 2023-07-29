@@ -1,1 +1,1 @@
-made up of [[microfilament]]
+made up of [[microfilaments]]

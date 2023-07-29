@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microtubules.md",
+                "file": "flagella.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microtubules.md"
+                "file": "flagella.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microtubules.md",
+                "file": "flagella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,13 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd334cdfb818aa79",
+  "active": "50c64cc5bfe28d8d",
   "lastOpenFiles": [
-    "chapter 4 major stuff idk.md",
+    "cilia.md",
     "centrioles.md",
     "microtubules.md",
     "flagella.md",
-    "cilia.md",
+    "chapter 4 major stuff idk.md",
     "Pasted image 20230729102734.png",
     "phosphorylated-intermediates.md",
     "reading-list-23.md",

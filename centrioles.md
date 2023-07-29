@@ -1,1 +1,1 @@
-made up of [[microfilaments]]
+made up of [[actin]] [[microfilaments]]

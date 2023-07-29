@@ -26,9 +26,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd334cdfb818aa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "microtubules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c620cc929c3e6720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cilia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50c64cc5bfe28d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flagella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "microtubules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.md"
+                "file": "microtubules.md"
               }
             }
           },
@@ -152,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "microtubules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a853f582f96b7cc",
+  "active": "bd334cdfb818aa79",
   "lastOpenFiles": [
-    "Pasted image 20230729102734.png",
+    "flagella.md",
+    "cilia.md",
+    "microtubules.md",
     "Untitled 4.md",
+    "Pasted image 20230729102734.png",
     "phosphorylated-intermediates.md",
     "reading-list-23.md",
     "2023-07-26.md",
@@ -208,8 +247,6 @@
     "major-modes-of-nutrition-among-organisms.md",
     "Pasted image 20230726034550.png",
     "electrons.md",
-    "coenzymes.md",
-    "redox.md",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
@@ -222,7 +259,6 @@
     "old",
     "jina-vault/Untitled 1.canvas",
     "jina-vault/ATP structure vs nucleotide structure.png",
-    "jina-vault/ATP structure graph.png",
     "jina-vault"
   ]
 }

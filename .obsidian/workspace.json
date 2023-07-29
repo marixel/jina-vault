@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter 4 major stuff idk.md",
+                "file": "!! chapter 4 major stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,19 +64,19 @@
             }
           },
           {
-            "id": "50c64cc5bfe28d8d",
+            "id": "d3521d50819734ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microtubules.md",
+                "file": "flagella.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flagella",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cilia.md",
+                "file": "centrioles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cilia.md"
+                "file": "centrioles.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cilia.md",
+                "file": "centrioles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,13 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c620cc929c3e6720",
+  "active": "f19a9ff2c71611be",
   "lastOpenFiles": [
     "microtubules.md",
-    "chapter 4 major stuff idk.md",
-    "centrioles.md",
-    "flagella.md",
+    "!! chapter 4 major stuff.md",
     "cilia.md",
+    "flagella.md",
+    "centrioles.md",
     "Pasted image 20230729102734.png",
     "phosphorylated-intermediates.md",
     "reading-list-23.md",

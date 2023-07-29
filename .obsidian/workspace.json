@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "collagen.md",
+                "file": "cell membrane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collagen.md"
+                "file": "cell membrane.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collagen.md",
+                "file": "cell membrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967424cd94ae130b",
+  "active": "5fa93a1a457b5252",
   "lastOpenFiles": [
-    "cell membrane.md",
     "collagen.md",
+    "cell membrane.md",
     "cell wall.md",
     "integrins.md",
     "cellulose.md",

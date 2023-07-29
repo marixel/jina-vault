@@ -1,3 +1,4 @@
-made up of [[actin]] [[microfilaments]]
-rarely found in plant cells
-9 + 0
+- made up of [[actin]] [[microfilaments]]
+- rarely found in plant cells
+- 9+0 structure
+- contained in [[centrosome]] of cell

@@ -36,7 +36,7 @@ first stage summary:
 
 ## flashcards
 
-TARGET DECK: Mathematics
+TARGET DECK: Biology
 
 Q: What happens to all cells during glycolysis?
 A: Glycolysis occurs in all cells, both plant and animal.

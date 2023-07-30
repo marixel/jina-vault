@@ -1,4 +1,4 @@
-TARGET DECK: Mathematics
+TARGET DECK: Biology
 
 Q: How do you use this style?
 A: Just like this.

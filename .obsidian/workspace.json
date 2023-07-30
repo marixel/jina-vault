@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9006ac95d4da676c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! anki syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "! anki syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "! anki syntax.md"
               }
             }
           },
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "! anki syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +196,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "9b15cf810baea7ef",
+  "active": "9006ac95d4da676c",
   "lastOpenFiles": [
-    "glycolysis.md",
     "test.md",
+    "! anki syntax.md",
+    "glycolysis.md",
     "ATP.md",
     "anaerobic.md",
     "aerobic vs anaerobic respiration.png",
@@ -215,7 +228,6 @@
     "Screenshot 2023-07-27 at 10.31.38 PM.pdf",
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "fructose.md",
-    "respiration.md",
     "Pasted image 20230726034550.png",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP.md",
+                "file": "glycolysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "952b29adeb3b2499",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATP.md",
+                "file": "glycolysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATP.md"
+                "file": "glycolysis.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "9a8252d22ff766bb",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATP.md",
+                "file": "glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +171,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "46c1e66a34a334b3",
+  "active": "d9c8b5077040dfa8",
   "lastOpenFiles": [
+    "ATP.md",
     "anaerobic.md",
     "aerobic vs anaerobic respiration.png",
     "aerobic.md",
@@ -201,7 +202,6 @@
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "fructose.md",
     "respiration.md",
-    "ATP.md",
     "Pasted image 20230726034550.png",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",

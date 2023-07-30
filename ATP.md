@@ -61,4 +61,4 @@ STARTI [Q] How does ATP release energy? ENDI
   - STARTI [A] ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate. ENDI
 
 STARTI [Q] What happens when an extra phosphate is added to ADP? ENDI
-  - STARTI [A] When an extra phosphate is added to ADP, it may become an inorganic phosphate. ENDI
+  - STARTI [A] it may become an inorganic phosphate ENDI

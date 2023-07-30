@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "activation energy.md",
+                "file": "ATP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "activation energy.md",
+                "file": "ATP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "activation energy.md"
+                "file": "ATP.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "activation energy.md",
+                "file": "ATP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,10 @@
   },
   "active": "d9c8b5077040dfa8",
   "lastOpenFiles": [
+    "anaerobic.md",
+    "aerobic vs anaerobic respiration.png",
+    "aerobic.md",
+    "activation energy.md",
     "2023-07-26.md",
     "microtubules.md",
     "!! chapter 4 major stuff.md",
@@ -197,16 +201,11 @@
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "fructose.md",
     "respiration.md",
-    "anaerobic.md",
     "ATP.md",
-    "high-energy bonds.md",
-    "atp-structure-and-function.md",
-    "energy.md",
     "Pasted image 20230726034550.png",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",
     "ATP structure graph.png",
-    "aerobic vs anaerobic respiration.png",
     "New folder",
     "old/Untitled 1.canvas",
     "old/ATP structure vs nucleotide structure.png",

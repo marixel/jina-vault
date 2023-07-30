@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a7de06441982b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!! chapter 4 disorganized stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,9 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycolysis.md",
+                "file": "!! chapter 4 disorganized stuff.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycolysis.md"
+                "file": "!! chapter 4 disorganized stuff.md"
               }
             }
           },
@@ -141,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "9a8252d22ff766bb",
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycolysis.md",
+                "file": "!! chapter 4 disorganized stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +195,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d9c8b5077040dfa8",
+  "active": "c0bd031c44317840",
   "lastOpenFiles": [
-    "! anki syntax.md",
+    "Untitled 4.md",
     "glycolysis.md",
+    "! anki syntax.md",
     "test.md",
     "ATP.md",
     "anaerobic.md",
@@ -195,7 +208,7 @@
     "activation energy.md",
     "2023-07-26.md",
     "microtubules.md",
-    "!! chapter 4 major stuff.md",
+    "!! chapter 4 disorganized stuff.md",
     "cell membrane.md",
     "lipid.md",
     "collagen.md",
@@ -214,7 +227,6 @@
     "Untitled 3.md",
     "Screenshot 2023-07-27 at 10.31.38 PM.pdf",
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
-    "fructose.md",
     "Pasted image 20230726034550.png",
     "Untitled.canvas",
     "ATP structure vs nucleotide structure.png",

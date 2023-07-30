@@ -29,3 +29,14 @@ first stage summary:
 - glucose doubly phosphorylated, split into 2 parts, first of which splits into 3-carbon molecule
 
 #### phase 2: 
+
+
+
+
+
+
+
+
+
+## flashcards
+	- 

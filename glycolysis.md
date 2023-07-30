@@ -2,6 +2,7 @@
 10-step [[anaerobic]] or [[aerobic]] process involving the breakdown of [[glucose]] into 2 [[pyruvate]]
 processes produce much more [[ATP]] ([[catabolic]] process)
 #### [[energy]] is added throughout process
+#### begins and ends in [[cytoplasm]] (bc no [[energy]] is required)
 
 ### 2-part, 10-step process:
 

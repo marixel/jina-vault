@@ -15,63 +15,63 @@ In **[[anaerobic]]** [[glycolysis]], fermentation accomplishes the same goal as 
 - Lactate fermentation: 2 pyruvates converted to 2 **lactic acid** molecules, forming lactate when ionized. 2 NADH + H+ converted to 2 [[NAD+]] ([[hydrogen]] ionizes lactate).
   - Happens when cells are in oxygen debt (and aren't facultative).
 
-## 4.3.1: [[Aerobic]] Respiration: The Acetyl CoA Step
+## 4.3.1: [[Aerobic]] [[Respiration]]: The Acetyl CoA Step
 
-Aerobic respiration starts after pyruvate is produced from glycolysis.
-It begins with pyruvate being converted to acetyl CoA (coenzyme A).
+[[Aerobic]] [[respiration]] starts after [[pyruvate]] is produced from [[glycolysis]].
+It begins with [[pyruvate]] being converted to acetyl CoA (coenzyme A).
 1. Decarboxylation (removal of CO2).
-2. Reduction of NAD+ (back to NADH + H+).
-3. Attachment of coenzyme A (energizes + destabilizes the molecule; prepares it for energy release).
+2. [[Reduction]] of [[NAD+]] (back to NADH + H+).
+3. Attachment of coenzyme A (energizes + destabilizes the molecule; prepares it for [[energy]] release).
 In organisms with mitochondria (+ takes place in mitochondria).
 
-Glucose -> Pyruvate -> Acetyl CoA -> Krebs cycle
+Glucose -> [[Pyruvate]] -> Acetyl CoA -> Krebs cycle
 
-## 4.3.2: Aerobic Respiration: Krebs Cycle
+## 4.3.2: [[Aerobic]] [[Respiration]]: Krebs Cycle
 
 **Important**
-- 8-step cycle where acetyl CoA is added to **oxaloacetate** (which is broken down, producing CO2, **reduced coenzymes** (NADH + H+ and FADH2), and ATP).
+- 8-step cycle where acetyl CoA is added to **oxaloacetate** (which is broken down, producing CO2, **reduced [[coenzymes]]** (NADH + H+ and FADH2), and [[ATP]]).
 - Happens to BOTH acetyl CoAs.
 1. Acetyl CoA added to oxaloacetate to form citrate (coenzyme A converted to CoA-SH and removed in the process).
-2. Dehydration synthesis + hydrolysis during the process; change in shape or isomerization of citrate to form isocitrate (less stability + more energy).
-3. Isocitrate decarboxylated + converted to alpha-ketoglutarate (bc 5 carbons); NAD+ reduced.
-4. Alpha-ketoglutarate has CoA added, is decarboxylated, and NAD+ is reduced, converting it to succinyl CoA (4 carbons, less stability).
-5. Succinyl CoA releases CoA and makes GTP (which is hydrolyzed), forming succinate and releasing ATP.
-6. Succinate converted to fumarate when FAD (redox-active coenzyme) reduced to form FADH2.
+2. Dehydration synthesis + hydrolysis during the process; change in shape or isomerization of citrate to form isocitrate (less stability + more [[energy]]).
+3. Isocitrate decarboxylated + converted to alpha-ketoglutarate (bc 5 carbons); [[NAD+]] reduced.
+4. Alpha-ketoglutarate has CoA added, is decarboxylated, and [[NAD+]] is reduced, converting it to succinyl CoA (4 carbons, less stability).
+5. Succinyl CoA releases CoA and makes GTP (which is hydrolyzed), forming succinate and releasing [[ATP]].
+6. Succinate converted to fumarate when FAD ([[redox]]-active coenzyme) reduced to form FADH2.
 7. Fumarate converted to malate when hydrolyzed.
-8. Malate converted to oxaloacetate after NAD+ is reduced.
+8. Malate converted to oxaloacetate after [[NAD+]] is reduced.
 Oxaloacetate can accept another acetyl CoA, and the process repeats (goes in a loop).
 
-## 4.3.2: Glycolysis and Krebs Cycle
+## 4.3.2: [[Glycolysis]] and Krebs Cycle
 
-Net energy output for one glucose from glycolysis through the Krebs cycle: 4 ATP, 10 NADH + H+, and 2 FADH.
-Glycolysis: 2 ATP investment, 4 ATP + 2 NADH + H+ payoff.
-More ATP will be produced from *reduced coenzymes* in mitochondria during **electron transport chain** and **oxidative phosphorylation**.
+Net [[energy]] output for one glucose from [[glycolysis]] through [[the Krebs cycle]]: 4 [[ATP]], 10 NADH + H+, and 2 FADH.
+[[Glycolysis]]: 2 [[ATP]] investment, 4 [[ATP]] + 2 NADH + H+ payoff.
+More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria during **[[electron]] transport chain** and **oxidative [[phosphorylation]]**.
 
-## 4.4.1: Electron Transport Chain
+## 4.4.1: [[Electron]] Transport Chain
 
-- Energy released from electrons of reduced coenzymes sets up a *proton gradient* (gradual increase in protons).
-- Proteins in the inner mitochondrial membrane can accept electrons from NADH + H+ and FAD2 to make NAD and FAD (enzyme) and use the lost energy to pump protons into the intermembrane space.
-  - Proteins use energy lost from redox reactions to move electrons from the inner membrane -> intermembrane space (innermost chamber).
-- In the **electron transport chain**, electrons are transferred between proteins, energy is released, and free energy decreases.
+- [[Energy]] released from [[electrons]] of reduced [[coenzymes]] sets up a *proton gradient* (gradual increase in protons).
+- Proteins in the inner mitochondrial membrane can accept [[electrons]] from NADH + H+ and FAD2 to make NAD and FAD (enzyme) and use the lost [[energy]] to pump protons into the intermembrane space.
+  - Proteins use [[energy]] lost from [[redox]] reactions to move [[electrons]] from the inner membrane -> intermembrane space (innermost chamber).
+- In the **[[electron]] transport chain**, [[electrons]] are transferred between proteins, [[energy]] is released, and free [[energy]] decreases.
   - Above: used to pump protons across the membrane to set up a gradient.
-  - The electron transport chain has proteins that accept electrons from NADH + H2 and FAD2 to convert them with redox reactions; energy released from these reactions pumps electrons from the inner membrane to the intermembrane space.
-    - The final electron acceptor is oxygen (at the end of the electron transport chain); because of its high electronegativity, it can easily accept low-energy electrons (hydrogen). Hydrogen-oxygen bonds form water.
+  - The [[electron]] transport chain has proteins that accept [[electrons]] from NADH + H2 and FAD2 to convert them with [[redox]] reactions; [[energy]] released from these reactions pumps [[electrons]] from the inner membrane to the intermembrane space.
+    - The final [[electron]] acceptor is oxygen (at the end of the [[electron]] transport chain); because of its high [[electronegativity,]] it can easily accept low-[[energy]] [[electrons]] ([[hydrogen]]). [[Hydrogen]]-oxygen bonds form water.
 
-## 4.4.2: Oxidative Phosphorylation
+## 4.4.2: Oxidative [[Phosphorylation]]
 
-- ATP synthase: protein complex that produces ATP from the **movement of protons** (H+) down the concentration gradient from the electron transport chain.
-- Chemiosmosis: movement of ions down a gradient; drives the production of ATP.
-  - So this is a part of ATP synthase (because protons are ions).
-- Oxidative phosphorylation: the process of ATP production driven by redox reactions that **take place in the electron transport chain**.
+- [[ATP]] synthase: protein complex that produces [[ATP]] from the **movement of protons** (H+) down the concentration gradient from the [[electron]] transport chain.
+- Chemiosmosis: movement of ions down a gradient; drives the production of [[ATP]].
+  - So this is a part of [[ATP]] synthase (because protons are ions).
+- Oxidative [[phosphorylation]]: the process of [[ATP]] production driven by [[redox]] reactions that **take place in the [[electron]] transport chain**.
   - See 4.4.1.
 - Mitochondrial matrix: surrounded by the inner membrane (mitochondria has a double membrane) and makes up the majority of the organelle's interior.
 - **Concentration gradient causes charge imbalance (1 side = charge, other = no charge)**.
-  - As protons move down the concentration gradient, ATP synthase drives ATP production.
+  - As protons move down the concentration gradient, [[ATP]] synthase drives [[ATP]] production.
 
-## 4.4.3: ATP Yield from Aerobic Respiration
+## 4.4.3: [[ATP]] Yield from [[Aerobic]] [[Respiration]]
 
-- **Total yield: 36 ATP**
-- 2 NADH + H converted to FADH2 before reentering the electron transport chain (in glycolysis, hence 'before').
+- **Total yield: 36 [[ATP]]**
+- 2 NADH + H converted to FADH2 before reentering the [[electron]] transport chain (in [[glycolysis]], hence 'before').
 - Rules (in terms of electron availability):
   - 2 protons yield 1 ATP.
   - 1 NADH + H+ --> 6 protons get pumped (3 ATP; 8 NADH + H+ involved).

@@ -99,5 +99,5 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 - Not dependent on a membrane-bound organelle (because it's in the cytosol).
 - Primitive [[glycolysis]] (on an earth with no free oxygen, but a lot of [[hydrogen]] sulfide and iron) *hydrolyzed [[hydrogen]] sulfide* to synthesize [[ATP]]/[[energy]]:
   - Some [[ATP]] formed spontaneously, but most phosphorylated glucose; hydrogenase likely produced H+ from H2 gas (produced from reactions between iron and sulfur compounds, and thus wasn't scarce).
-  - [[Hydrogen]] ions from these reactions may have driven the synthesis of ATP from ADP (so it was only glycolysis; not as efficient a process as what we know of today, but did produce ATP nonetheless).
-- When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to anaerobic respiration) until they became capable of aerobic respiration with evolution.
+  - [[Hydrogen]] ions from these reactions may have driven the synthesis of [[ATP]] from ADP (so it was only [[glycolysis]]; not as efficient a process as what we know of today, but did produce [[ATP]] nonetheless).
+- When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to [[anaerobic]] [[respiration]]) until they became capable of [[aerobic]] [[respiration]] with evolution.

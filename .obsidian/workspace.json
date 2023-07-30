@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9b15cf810baea7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9006ac95d4da676c",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! anki syntax.md",
+                "file": "glycolysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! anki syntax.md"
+                "file": "glycolysis.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! anki syntax.md",
+                "file": "glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +183,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "9006ac95d4da676c",
+  "active": "d9c8b5077040dfa8",
   "lastOpenFiles": [
     "test.md",
     "! anki syntax.md",

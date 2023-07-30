@@ -39,4 +39,39 @@ first stage summary:
 
 
 ## flashcards
-	- 
+STARTI [Q] What happens to all cells during glycolysis? ENDI
+  - STARTI [A] Glycolysis occurs in all cells, both plant and animal. ENDI
+
+STARTI [Q] What is the 10-step process in glycolysis? ENDI
+  - STARTI [A] Glycolysis is a 10-step process involving the breakdown of glucose into 2 pyruvate molecules, either through anaerobic or aerobic pathways. The process generates much more ATP (catabolic process). ENDI
+
+STARTI [Q] How is energy added throughout the glycolysis process? ENDI
+  - STARTI [A] Energy is added in the form of ATP throughout the glycolysis process. ENDI
+
+STARTI [Q] Where does glycolysis begin and end? ENDI
+  - STARTI [A] Glycolysis begins and ends in the cytoplasm, as no energy is required for this process. ENDI
+
+STARTI [Q] What are the two parts of the 10-step glycolysis process? ENDI
+  - STARTI [A] The two parts are:
+    1. Energy/ATP investment stage
+    2. Energy payoff stage ENDI
+
+STARTI [Q] Describe the Energy/ATP investment stage in glycolysis. ENDI
+  - STARTI [A] In the energy/ATP investment stage:
+    1. ATP is converted to ADP when a phosphate group is invested in glucose, forming glucose 6-phosphate.
+    2. Glucose 6-phosphate is isomerized into fructose 6-phosphate.
+    3. Fructose 6-phosphate undergoes phosphorylation to form fructose 1,6-biphosphate with the investment of another ATP molecule.
+    4. The new ATP investment is broken down into ADP, and another phosphate group is added with the help of the enzyme phosphofructokinase.
+    5. Fructose 1,6-biphosphate is broken down into two components: dehydroxyacetone phosphate and glyceraldehyde 3-phosphate (G3P). ENDI
+
+STARTI [Q] Describe the second phase of glycolysis (Energy payoff stage). ENDI
+  - STARTI [A] In the Energy payoff stage of glycolysis:
+    - Dehydroxyacetone phosphate, which is not directly useful for the cell, is converted to glyceraldehyde 3-phosphate (G3P) by an enzyme.
+    - G3P finishes glycolysis and enters respiration.
+    - A state of equilibrium is established, and when G3P is put into the rest of glycolysis, dehydroxyacetone phosphate moves in the direction of G3P until it is all converted to G3P. ENDI
+
+STARTI [Q] What happens during glycolysis with regards to hydrogen and reduction? ENDI
+  - STARTI [A] During glycolysis, hydrogen is removed, and something else undergoes reduction. (Specific details about what undergoes reduction are not provided in the notes.) ENDI
+
+STARTI [Q] Summarize the first stage of glycolysis. ENDI
+  - STARTI [A] The first stage of glycolysis involves glucose being doubly phosphorylated, split into two parts, with one part eventually splitting into a 3-carbon molecule (glyceraldehyde 3-phosphate). ENDI

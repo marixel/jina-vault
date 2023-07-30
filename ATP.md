@@ -18,7 +18,7 @@ title: ATP
 - [[phosphate bonds]] are unstable bc of [[phosphate group]] crowding (so bonds are weak)
 - products of [[ATP]] [[hydrolysis]] ([[ADP]] + P) more stable than [[ATP]]
 
-### how does [[ATP]] release energy?
+## how does [[ATP]] release energy?
 	[[High-energy bonds]]: **releases energy** when bond is broken
 		A - P - ***P ~ P*** ([[ATP]]) --> A - P - P + ***P*** (ADP)
 			**phosphate group is separated**

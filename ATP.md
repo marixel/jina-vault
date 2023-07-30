@@ -26,22 +26,4 @@ title: ATP
 	**$\ce{ATP^-^4 + H2O}$ --> $\ce{ADP^-^3 + HPO4^-^2}$**
 	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
 
-**flashcard:: ATP** :: stores energy in the cell
-
-**flashcard:: Uses of ATP** :: mechanical work, transport work, chemical work
-
-**flashcard:: ATP Synthesis** :: $\ce{ADP + P -> ATP}$ (endergonic reaction)
-
-**flashcard:: ATP Function** :: generated via respiration (both aerobic and anaerobic)
-
-**flashcard:: High-energy Bonds in ATP** :: Releases energy when bond is broken
-
-**flashcard:: ATP Hydrolysis** :: ATP (A - P - ***P ~ P***) -> ADP (A - P - P + ***P***)
-
-**flashcard:: ATP Hydrolysis (Continued)** :: Phosphate group is separated, considered high-energy because it won't likely reform after hydrolysis, ADP + P is more stable than ATP because electrons are in a more stable position
-
-**flashcard:: ATP Hydrolysis Equation** :: $\ce{ATP^-^4 + H2O}$ -> $\ce{ADP^-^3 + HPO4^-^2}$
-
-**flashcard:: Free Energy in ATP Hydrolysis** :: Negative; catabolic and exergonic reaction
-
-**flashcard:: ATP Origin** :: Autotrophic in nature; produced by the body after taking in raw materials
+TARGET DECK: Biology

@@ -26,6 +26,7 @@ title: ATP
 	**$\ce{ATP^-^4 + H2O}$ --> $\ce{ADP^-^3 + HPO4^-^2}$**
 	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
 
+### flashcards
 STARTI [Q] What does ATP do in the cell? ENDI
   - STARTI [A] ATP stores energy in the cell. ENDI
 

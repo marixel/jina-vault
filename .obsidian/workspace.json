@@ -111,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "!! chapter 4 disorganized stuff.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,15 +133,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "!! chapter 4 disorganized stuff.md"
+              }
             }
           },
           {
             "id": "04468af53c27ebe0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "!! chapter 4 disorganized stuff.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -151,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "9a8252d22ff766bb",
@@ -165,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!! chapter 4 disorganized stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +199,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "04468af53c27ebe0",
+  "active": "c0bd031c44317840",
   "lastOpenFiles": [
     "!! chapter 4 disorganized stuff.md",
     "Untitled 4.md",

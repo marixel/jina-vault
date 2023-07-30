@@ -81,3 +81,23 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 ## 4.4.4: Other Fuels in [[Respiration]]
 
 - Fats and proteins are broken down into units that can enter the respiratory pathway and serve as alternative fuel in the process
+- [[Respiration]] controlled by **allosteric feedback/inhibition**:
+  - Allosteric enzymes stimulated by one thing and inhibited by another.
+- Triglycerides (fats) composed of glycerol + 3 fatty acids:
+  - Glycerol enters [[glycolysis]] when broken down into *glyceraldehyde phosphate*.
+  - Fatty acids broken down into 2-carbon subunits that are easily converted into acetyl CoA (skips straight to Krebs cycle).
+  - Fat is almost 2x more [[energy]] efficient than glucose.
+- When amino acids have their amine groups removed, processed, and excreted, the amino acid components left over may enter the respiratory pathway.
+- Phosphofructokinase (3rd enzyme of [[glycolysis]]) = major control point in [[respiration]]:
+  - Substrate binding site and **allosteric site** where molecules can bind to inhibit or stimulate it (allosteric feedback/inhibition).
+  - Built-up citrate and/or [[ATP]] can inhibit phosphofructokinase (letting the system know that there is no need to produce more product).
+  - As [[ATP]] is used, AMP (phosphofructokinate-stimulating nucleotide) allows for continued production of [[ATP]].
+
+## 4.4.5: The Evolution of [[Glycolysis]]
+
+- [[Glycolysis]] evolved before Krebs cycle and occurs in **all** cells.
+- Not dependent on a membrane-bound organelle (because it's in the cytosol).
+- Primitive [[glycolysis]] (on an earth with no free oxygen, but a lot of [[hydrogen]] sulfide and iron) *hydrolyzed [[hydrogen]] sulfide* to synthesize [[ATP]]/[[energy]]:
+  - Some [[ATP]] formed spontaneously, but most phosphorylated glucose; hydrogenase likely produced H+ from H2 gas (produced from reactions between iron and sulfur compounds, and thus wasn't scarce).
+  - [[Hydrogen]] ions from these reactions may have driven the synthesis of ATP from ADP (so it was only glycolysis; not as efficient a process as what we know of today, but did produce ATP nonetheless).
+- When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to anaerobic respiration) until they became capable of aerobic respiration with evolution.

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b15cf810baea7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycolysis.md",
+                "file": "test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycolysis.md"
+                "file": "test.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycolysis.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +184,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "d9c8b5077040dfa8",
+  "active": "9b15cf810baea7ef",
   "lastOpenFiles": [
+    "glycolysis.md",
+    "test.md",
     "ATP.md",
     "anaerobic.md",
     "aerobic vs anaerobic respiration.png",
@@ -181,7 +196,6 @@
     "2023-07-26.md",
     "microtubules.md",
     "!! chapter 4 major stuff.md",
-    "glycolysis.md",
     "cell membrane.md",
     "lipid.md",
     "collagen.md",

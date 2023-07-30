@@ -1,3 +1,5 @@
+TARGET DECK: Mathematics
+
 Q: How do you use this style?
 A: Just like this.
 <!--ID: 1690713624347-->

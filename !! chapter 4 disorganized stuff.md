@@ -72,12 +72,12 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 
 - **Total yield: 36 [[ATP]]**
 - 2 NADH + H converted to FADH2 before reentering the [[electron]] transport chain (in [[glycolysis]], hence 'before').
-- Rules (in terms of electron availability):
-  - 2 protons yield 1 ATP.
-  - 1 NADH + H+ --> 6 protons get pumped (3 ATP; 8 NADH + H+ involved).
-  - 1 FADH2 ----> 4 protons get pumped (2 ATP; less than NADH because it enters after NADH; 4 FADH2 involved).
-  - An extra 4 ATP come directly from glycolysis and the Krebs cycle.
+- Rules (in terms of [[electron]] availability):
+  - 2 protons yield 1 [[ATP]].
+  - 1 NADH + H+ --> 6 protons get pumped (3 [[ATP]]; 8 NADH + H+ involved).
+  - 1 FADH2 ----> 4 protons get pumped (2 [[ATP]]; less than NADH because it enters after NADH; 4 FADH2 involved).
+  - An extra 4 [[ATP]] come directly from [[glycolysis]] and [[the Krebs cycle]].
 
-## 4.4.4: Other Fuels in Respiration
+## 4.4.4: Other Fuels in [[Respiration]]
 
 - Fats and proteins are broken down into units that can enter the respiratory pathway and serve as alternative fuel in the process

@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!! chapter 4 disorganized stuff.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "!! chapter 4 disorganized stuff.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "9a8252d22ff766bb",
@@ -167,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!! chapter 4 disorganized stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +192,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c0bd031c44317840",
+  "active": "04468af53c27ebe0",
   "lastOpenFiles": [
+    "!! chapter 4 disorganized stuff.md",
     "Untitled 4.md",
     "glycolysis.md",
     "! anki syntax.md",
@@ -208,7 +206,6 @@
     "activation energy.md",
     "2023-07-26.md",
     "microtubules.md",
-    "!! chapter 4 disorganized stuff.md",
     "cell membrane.md",
     "lipid.md",
     "collagen.md",

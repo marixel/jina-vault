@@ -27,35 +27,16 @@ title: ATP
 	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
 
 ### flashcards
-STARTI [Q] What does ATP do in the cell? ENDI
-  - STARTI [A] ATP stores energy in the cell. ENDI
 
-STARTI [Q] What are the uses of ATP in the cell? ENDI
-  - STARTI [A] ATP is used for mechanical work, transport work, and chemical work. ENDI
 
-STARTI [Q] How is ATP synthesized? ENDI
-  - STARTI [A] ATP is synthesized through an endergonic reaction: ADP + P → ATP. ENDI
+Q: What is the equation for ATP hydrolysis?
+  - A: ATP^-4 + H2O → ADP^-3 + HPO4^-2
 
-STARTI [Q] Where does ATP come from? ENDI
-  - STARTI [A] ATP is produced via respiration, both aerobic and anaerobic. ENDI
+Q: What is the free energy change in ATP hydrolysis?
+  - A: The free energy change in ATP hydrolysis is negative, indicating a catabolic and exergonic reaction.
 
-STARTI [Q] Why are the phosphate bonds in ATP considered unstable? ENDI
-  - STARTI [A] The phosphate bonds in ATP are considered unstable due to phosphate group crowding, making the bonds weak. ENDI
-
-STARTI [Q] What happens during ATP hydrolysis? ENDI
-  - STARTI [A] During ATP hydrolysis, ATP (A - P - P ~ P) breaks into ADP (A - P - P + P) with the phosphate group being separated. ENDI
-
-STARTI [Q] Why is ATP considered to have high-energy bonds? ENDI
-  - STARTI [A] ATP is considered to have high-energy bonds because they release energy when broken, and they are unlikely to reform after hydrolysis. ADP + P is more stable than ATP as electrons are in a more stable position. ENDI
-
-STARTI [Q] What is the equation for ATP hydrolysis? ENDI
-  - STARTI [A] ATP^-4 + H2O → ADP^-3 + HPO4^-2 ENDI
-
-Q: What is the free energy change in ATP hydrolysis? ENDI
-  - STARTI [A] The free energy change in ATP hydrolysis is negative, indicating a catabolic and exergonic reaction. ENDI
-
- Q:Where does ATP originate? ENDI
-	A: ATP is autotrophic in nature and is produced by the body after taking in raw materials. ENDI
+ Q: Where does ATP originate?
+	A: ATP is autotrophic in nature and is produced by the body after taking in raw materials.
 
 Q: How does ATP release energy?
 	A: ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate.

@@ -56,6 +56,7 @@ STARTI [Q] What is the free energy change in ATP hydrolysis? ENDI
 
 STARTI [Q] Where does ATP originate? ENDI
   - STARTI [A] ATP is autotrophic in nature and is produced by the body after taking in raw materials. ENDI
+
 Q: How does ATP release energy?
 A: ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate.
 

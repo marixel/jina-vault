@@ -51,14 +51,14 @@ STARTI [Q] Why is ATP considered to have high-energy bonds? ENDI
 STARTI [Q] What is the equation for ATP hydrolysis? ENDI
   - STARTI [A] ATP^-4 + H2O → ADP^-3 + HPO4^-2 ENDI
 
-STARTI [Q] What is the free energy change in ATP hydrolysis? ENDI
+Q: What is the free energy change in ATP hydrolysis? ENDI
   - STARTI [A] The free energy change in ATP hydrolysis is negative, indicating a catabolic and exergonic reaction. ENDI
 
-STARTI [Q] Where does ATP originate? ENDI
-  - STARTI [A] ATP is autotrophic in nature and is produced by the body after taking in raw materials. ENDI
+ Q:Where does ATP originate? ENDI
+	A: ATP is autotrophic in nature and is produced by the body after taking in raw materials. ENDI
 
 Q: How does ATP release energy?
-A: ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate.
+	A: ATP releases energy by breaking its high-energy bonds, leading to the formation of ADP and inorganic phosphate.
 
 Q: What happens when an extra phosphate is added to ADP? 
-A: it may become an inorganic phosphate
+	A: it may become an inorganic phosphate

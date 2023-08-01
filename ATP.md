@@ -27,6 +27,7 @@ title: ATP
 	[[free energy]] = negative; [[catabolic]] and [[exergonic]] reaction
 
 ### flashcards
+TARGET DECK: Biology
 Q: What does ATP do in the cell? 
 	A: ATP stores energy in the cell.
 

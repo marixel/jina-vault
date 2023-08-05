@@ -32,10 +32,6 @@ first stage summary:
 
 #### phase 2:
 
-
-
-
-
 ## flashcards
 
 TARGET DECK: Biology

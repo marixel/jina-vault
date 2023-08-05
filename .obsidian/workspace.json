@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!! chapter 4 disorganized stuff.md",
+                "file": "! anki syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bae0e6c3b1bc9d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glycolysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycolysis.md",
+                "file": "! anki syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycolysis.md"
+                "file": "! anki syntax.md"
               }
             }
           },
@@ -183,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycolysis.md",
+                "file": "! anki syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,13 +198,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ef866115e4b0c1ad",
+  "active": "9a7de06441982b53",
   "lastOpenFiles": [
+    "!! chapter 4 disorganized stuff.md",
+    "NAD+.md",
     "Untitled",
     "Untitled 8.md",
-    "NAD+.md",
     "coenzymes.md",
-    "!! chapter 4 disorganized stuff.md",
     "! anki syntax.md",
     "chapter 5 disorganized information.md",
     "ATP.md",

@@ -101,3 +101,30 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
   - Some [[ATP]] formed spontaneously, but most phosphorylated glucose; hydrogenase likely produced H+ from H2 gas (produced from reactions between iron and sulfur compounds, and thus wasn't scarce).
   - [[Hydrogen]] ions from these reactions may have driven the synthesis of [[ATP]] from ADP (so it was only [[glycolysis]]; not as efficient a process as what we know of today, but did produce [[ATP]] nonetheless).
 - When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to [[anaerobic]] [[respiration]]) until they became capable of [[aerobic]] [[respiration]] with evolution.
+
+### flashcards:
+- Q: What is anaerobic respiration? 
+	- A: Anaerobic respiration is fermentation occurring when glycolysis lacks oxygen, allowing the process to continue in organisms without mitochondria.
+
+Q: How is NAD+ involved in glycolysis and anaerobic respiration? 
+	A: NAD+ is reduced to NADH + H+ in glycolysis, and in anaerobic respiration, fermentation converts NADH back to NAD+.
+
+Q: What are the types of fermentation, and how do they occur? A: - Alcohol fermentation: Pyruvate is decarboxylated, forming acetaldehyde, converted to ethanol with NADH + H+.
+
+- Lactate fermentation: Two pyruvates become two lactate molecules, with the conversion of two NADH + H+ to NAD+.
+
+Q: What happens in the Acetyl CoA step of aerobic respiration? A: The Acetyl CoA step converts pyruvate to acetyl CoA through decarboxylation, NAD+ reduction, and coenzyme A attachment for energy release.
+
+Q: What is the Krebs cycle, and how does it work? A: The Krebs cycle is an 8-step process adding acetyl CoA to oxaloacetate, breaking it down, producing CO2, reduced coenzymes (NADH + H+ and FADH2), and ATP.
+
+Q: What is the net energy output for one glucose from glycolysis through the Krebs cycle? A: The net energy output is 4 ATP, 10 NADH + H+, and 2 FADH2. More ATP is produced from reduced coenzymes during electron transport chain and oxidative phosphorylation.
+
+Q: What happens in the Electron Transport Chain (ETC)? A: The ETC transfers electrons, releasing energy to set up a proton gradient. Proteins pump protons into the intermembrane space. Oxygen is the final electron acceptor.
+
+Q: How does oxidative phosphorylation occur in respiration? A: Oxidative phosphorylation is ATP production driven by redox reactions in the ETC. Protons moving through ATP synthase drive ATP production in chemiosmosis.
+
+Q: What is the total ATP yield from aerobic respiration? A: The total ATP yield is 36 ATP, including ATP production from glycolysis, Krebs cycle, and the electron transport chain, considering reduced coenzymes and direct ATP from glycolysis and the Krebs cycle.
+
+Q: How do fats and proteins serve as alternative fuels in respiration? A: Fats are broken into glycerol and fatty acids, entering glycolysis and the Krebs cycle. Amino acids, after losing amine groups, enter the respiratory pathway, controlled by allosteric feedback/inhibition.
+
+Q: What is the evolution of glycolysis? A: Glycolysis evolved before the Krebs cycle, present in all cells. Primitive glycolysis used hydrogen sulfide for ATP synthesis. Organisms evolved into aerobic respiration with the entry of oxygen.

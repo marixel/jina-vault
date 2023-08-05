@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coenzymes.md",
+                "file": "NAD+.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coenzymes.md",
+                "file": "NAD+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coenzymes.md"
+                "file": "NAD+.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coenzymes.md",
+                "file": "NAD+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +202,7 @@
   },
   "active": "203f354d51c76506",
   "lastOpenFiles": [
+    "coenzymes.md",
     "!! chapter 4 disorganized stuff.md",
     "! anki syntax.md",
     "chapter 5 disorganized information.md",
@@ -229,7 +230,6 @@
     "reading-list-23.md",
     "quicksand.md",
     "mere-christianity.md",
-    "the Krebs cycle.md",
     "Screenshot 2023-07-27 at 10.31.38 PM.pdf",
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "Pasted image 20230726034550.png",

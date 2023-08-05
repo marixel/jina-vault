@@ -103,8 +103,9 @@ More [[ATP]] will be produced from *reduced [[coenzymes]]* in mitochondria durin
 - When oxygen finally entered the atmosphere, organisms suffered in a harsh environment (because they were so used to [[anaerobic]] [[respiration]]) until they became capable of [[aerobic]] [[respiration]] with evolution.
 
 ### flashcards:
-- Q: What is anaerobic respiration? 
-	- A: Anaerobic respiration is fermentation occurring when glycolysis lacks oxygen, allowing the process to continue in organisms without mitochondria.
+TARGET DECK: Biology
+Q: What is anaerobic respiration? 
+	A: Anaerobic respiration is fermentation occurring when glycolysis lacks oxygen, allowing the process to continue in organisms without mitochondria.
 
 Q: How is NAD+ involved in glycolysis and anaerobic respiration? 
 	A: NAD+ is reduced to NADH + H+ in glycolysis, and in anaerobic respiration, fermentation converts NADH back to NAD+.

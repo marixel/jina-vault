@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glycolysis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "952b29adeb3b2499",
@@ -213,8 +211,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "bae0e6c3b1bc9d35",
+  "active": "ef866115e4b0c1ad",
   "lastOpenFiles": [
+    "Untitled",
     "Untitled 8.md",
     "NAD+.md",
     "coenzymes.md",
@@ -242,7 +241,6 @@
     "centrioles.md",
     "Pasted image 20230729102734.png",
     "phosphorylated-intermediates.md",
-    "reading-list-23.md",
     "Screenshot 2023-07-27 at 10.31.38 PM.pdf",
     "Screenshot 2023-07-27 at 10.33.53 PM.png",
     "Pasted image 20230726034550.png",

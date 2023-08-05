@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "839dd04321ec15c9",
+            "id": "bae0e6c3b1bc9d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "glycolysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gl",
+                "query": "glycolysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "952b29adeb3b2499",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "glycolysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 8.md"
+                "file": "glycolysis.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +214,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3c19a16427b0ceb2",
+  "active": "bae0e6c3b1bc9d35",
   "lastOpenFiles": [
-    "NAD+.md",
     "Untitled 8.md",
+    "NAD+.md",
     "coenzymes.md",
     "!! chapter 4 disorganized stuff.md",
     "! anki syntax.md",
